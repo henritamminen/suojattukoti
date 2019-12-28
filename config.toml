@@ -22,8 +22,8 @@ enableRobotsTXT = true
 [params]
   favicon = "logo.png"
   description = "Sivuiltamme löydät itsellesi ja perheellesi hälytysjärjestelmän kotiisi!"
-  facebook = "#"
-  twitter = "#"
+  facebook = "https://www.facebook.com/Suojattukotifi-108119400703801/"
+  twitter = "https://twitter.com/suojattukoti"
   instagram = "#"
   youtube = ""
   github = ""
