@@ -1,0 +1,4 @@
+#robottiteksti 
+User-agent: *
+Allow: /
+Sitemap: https://suojattukoti.fi/sitemap.xml

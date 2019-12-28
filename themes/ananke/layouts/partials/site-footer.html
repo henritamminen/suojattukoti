@@ -1,0 +1,24 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between" style="padding-top:30px;">
+    <div style="padding-left:15px;" class="dn dib-ns pv2 ph3">
+        <a class="f4 fw4 hover-white no-underline white" href="{{ .Site.BaseURL }}" >
+            &copy; {{ now.Format "2006" }} {{ .Site.Title }}</a>
+          <p class="f4 fw4  no-underline white">suojattukoti@gmail.com
+          </p>
+          
+    </div>
+  
+  <!--  <div>{{ partial "social-follow.html" . }}</div>-->
+  
+  
+    <div class="float-right white dib-ns pv2 ph3">
+        <b style="padding-left:10px;">Pikavalikko</b>
+        <ul style="list-style-type:none;padding:0;color:white;">
+        <li><a href="/yhteydenotto/">Yhteydenotto</a></li>
+        
+        <li><a href="/halytysjarjestelma/">Hälytysjärjestelmä</a></li>
+      </ul>
+    </div>
+    
+  </div>
+</footer>

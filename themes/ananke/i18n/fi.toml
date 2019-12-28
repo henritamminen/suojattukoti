@@ -1,0 +1,32 @@
+[more]
+other = "Lisää artikkeleja"
+
+[allTitle]
+other = "Loput artikkelit"
+
+[recentTitle]
+other = "Viimeaikaiset artikkelit"
+
+[readMore]
+other = "Lue lisää"
+
+[whatsInThis]
+other = "What's in this {{ .Type }}"
+
+[related]
+other = "Aiheeseen liittyvät"
+
+[yourName]
+other = "Nimesi"
+
+[emailAddress]
+other = "Sähköpostiosoite"
+
+[message]
+other = "Viesit"
+
+[emailRequiredNote]
+other = "Sähköpostiosoite on pakollinen"
+
+[send]
+other = "Lähetä"

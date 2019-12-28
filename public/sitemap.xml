@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.suojattukoti.fi/halytysjarjestelma/</loc>
+    <lastmod>2019-12-28T16:27:01+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.suojattukoti.fi/halytysjarjestelma/halytysjarjestelma-kirkkonummi/</loc>
+    <lastmod>2019-12-28T16:27:01+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.suojattukoti.fi/</loc>
+    <lastmod>2019-12-28T16:27:01+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.suojattukoti.fi/halytysjarjestelma/halytysjarjestelma-vantaa/</loc>
+    <lastmod>2019-12-28T16:21:49+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.suojattukoti.fi/halytysjarjestelma/halytysjarjestelma-helsinki/</loc>
+    <lastmod>2019-12-28T16:21:23+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.suojattukoti.fi/halytysjarjestelma/halytysjarjestelma-espoo/</loc>
+    <lastmod>2019-12-28T15:53:40+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.suojattukoti.fi/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.suojattukoti.fi/yhteydenotto/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
